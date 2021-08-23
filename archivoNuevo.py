@@ -9,6 +9,13 @@ funcion1(p)
 
 }
 
+funcion3()
+{
+
+funcion4();
+funcion3();
+}
+
 
 funcion4()
 {
