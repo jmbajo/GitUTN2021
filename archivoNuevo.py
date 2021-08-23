@@ -10,11 +10,8 @@ funcion1(p)
 }
 
 
-funcion2(p3) {
+funcion3(p3) {
 
-// soluciono problemita!!
-
-
-
+// Esta funcion es la posta
 
 }
