@@ -10,7 +10,7 @@ funcion1(p)
 }
 
 
-funcion2(parametro) {
+funcion2(p3) {
 
 
 
