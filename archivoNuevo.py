@@ -9,11 +9,19 @@ funcion1(p)
 
 }
 
+
 funcion Gonzalo()
 {
 asdf
 sadf
 asdfas
+}
+
+funcion3()
+{
+
+funcion4();
+funcion3();
 
 }
 
@@ -25,5 +33,3 @@ Tiene las ventajas de la funcion 2 y 3
 }
 
 // Esta funcion es la posta
-
-}
