@@ -12,7 +12,7 @@ funcion1(p)
 
 funcion2(p3) {
 
-// soluciono problemita!!
+// soluciono problemon!!
 
 
 
