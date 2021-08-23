@@ -10,7 +10,7 @@ funcion1()
 }
 
 
-funcion2() {
+funcion2(parametro) {
 
 
 
