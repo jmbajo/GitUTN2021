@@ -1,7 +1,7 @@
 Comienzo mi proyecto super!!
 Hice mi segunda linea!
 
-funcion1(parametro)
+funcion1(p)
 {
 
 
