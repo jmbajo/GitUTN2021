@@ -31,7 +31,8 @@ funcion3();
 
 funcion4()
 {
-Tiene las ventajas de la funcion 2 y 3
+Tiene las ventajas de la funcion 1 y 3
+Esta es la prueba del conflicto
 
 }
 
