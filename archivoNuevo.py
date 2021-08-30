@@ -33,7 +33,7 @@ funcion4()
 {
 Tiene las ventajas de la funcion 1 y 3
 Esta es la prueba del conflicto
-
+Nos equivocamos los dos
 }
 
 // Esta funcion es la posta
