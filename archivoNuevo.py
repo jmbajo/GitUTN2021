@@ -33,7 +33,7 @@ funcion4()
 {
 Tiene las ventajas de la funcion 1 y 3
 Esta es la prueba del conflicto
-Me equivoqué yo, esta es la prueba real
+Nos equivocamos los dos, pero yo más....
 }
 
 // Esta funcion es la posta
