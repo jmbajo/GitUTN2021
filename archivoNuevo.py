@@ -18,9 +18,6 @@ funcion1(p)
 
 funcion Gonzalo()
 {
-asdf
-sadf
-asdfas
 }
 
 funcion3()
